@@ -134,11 +134,3 @@ This creates an optimized production build in the `dist/` folder that you can de
 ## License
 
 MIT License - Feel free to use for commercial projects
-
-## Support
-
-For issues or questions, please contact support or check the documentation.
-
----
-
-**Happy Dining! 🍽️**
