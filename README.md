@@ -130,7 +130,3 @@ This creates an optimized production build in the `dist/` folder that you can de
 - Firefox (latest)
 - Safari (latest)
 - Edge (latest)
-
-## License
-
-MIT License - Feel free to use for commercial projects
