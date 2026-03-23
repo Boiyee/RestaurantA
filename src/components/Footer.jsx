@@ -33,7 +33,6 @@ export default function Footer() {
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaFacebook /></a>
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaTwitter /></a>
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaInstagram /></a>
-              <a href="#" className="text-primary hover:text-white transition text-2xl"><FaWhatsapp /></a>
             </div>
           </div>
         </div>
