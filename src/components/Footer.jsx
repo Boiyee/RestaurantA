@@ -27,12 +27,13 @@ export default function Footer() {
           {/* Contact & Social */}
           <div>
             <h4 className="text-xl font-semibold text-primary mb-4">Contact</h4>
-            <p className="text-gray-300 mb-2">📍 123 Main St, City</p>
-            <p className="text-gray-300 mb-4">📞 (555) 123-4567</p>
+            <p className="text-gray-300 mb-2">📍 123 Main St, City </p>
+            <p className="text-gray-300 mb-4">📞 (555) 123-4567 </p>
             <div className="flex gap-4">
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaFacebook /></a>
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaTwitter /></a>
               <a href="#" className="text-primary hover:text-white transition text-2xl"><FaInstagram /></a>
+              <a href="#" className="text-primary hover:text-white transition text-2xl"><FaWhatsapp /></a>
             </div>
           </div>
         </div>
