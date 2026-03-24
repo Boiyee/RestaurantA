@@ -133,4 +133,6 @@ This creates an optimized production build in the `dist/` folder that you can de
 
 ## Author
 
-- 
+- X: @OduwaleJubreel
+- Whatsapp: wa.me/7052006201
+- linkedIn: 
