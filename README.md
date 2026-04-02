@@ -135,4 +135,5 @@ This creates an optimized production build in the `dist/` folder that you can de
 
 - X: @OduwaleJubreel
 - Whatsapp: wa.me/7052006201
-- linkedIn: 
+- LinkedIn:
+- Discord: 
