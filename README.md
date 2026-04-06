@@ -143,3 +143,4 @@ For issues or questions, please contact support or check the documentation.
 
 ## AUTHOR
 - Whatsapp: wa.me/7052006201
+- X: x.com/OduwaleJubreel
